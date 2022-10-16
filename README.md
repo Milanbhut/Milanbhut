@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Milan Bhut A creative Designer And Innovative Website Creator and a project manager @Web11 Infotech also a part time Freelancer.
+- 👋 Hi, I’m Milan Bhut A creative Designer And Innovative Website Creator and also a part time Freelancer.
 - 👀 I’m interested in Designing, Coding, Gaming, Making Music, Play Instruments, Travelling And Sports.
 - 🌱 I’m currently learning New skills like React And Node along with Python for AI to improve my knowledge in IT Industry.
 - 💞️ I’m looking to collaborate on Any kind of projects which envolve Designing ar Development Skills.

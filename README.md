@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **React JS & Node JS alongside With NEXT Js** -
 - 💬 Ask me about **Any Front End Queries I'm Happy To Help You !!** - 
 - 📫 How to reach me **milanbhut7199@gmail.com** -
-⚡ Fun fact **I'm an Anime weeb and a GAMER TOO !!**
+- ⚡ Fun fact **I'm an Anime weeb and a GAMER TOO !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

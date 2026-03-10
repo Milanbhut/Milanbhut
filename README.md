@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=79FF97&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Milan+Bhut;Frontend+Developer;Gadget+Nerd+%26+Born+Engineer;Anime+Weeb+%26+Gamer" alt="Typing SVG" />
+  <h1 style="color: #79FF97; font-family: monospace;">> Hello, World! I am Milan Bhut_</h1>
+  <h3>Frontend Developer | Gadget Nerd & Born Engineer | Anime Weeb & Gamer 🎮</h3>
 </div>
 
 <p align="center">

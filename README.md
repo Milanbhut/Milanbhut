@@ -22,9 +22,9 @@ I treat my career like an RPG. Over the last few years, I've leveled up from jus
 ### 🕹️ Press Start (What I'm Doing Now)
 I believe the web should be interactive and fun. 
 
-* **Current Side Quest:** Developing a playable **Fruit Sort** puzzle game built entirely from scratch using HTML, CSS, and Vanilla JavaScript. 
+* **Current Side Quest:** Developing a playable puzzle games like **Jigsaw Puzzle** & Other built entirely from scratch using HTML, CSS, and Vanilla JavaScript. 
 * **Main Quest:** Crafting high-performance web apps as a Freelancer.
-* **Guild Chat:** Ask me about frontend architecture, UI/UX, or your favorite anime!
+* **Guild Chat:** Ask me about frontend architecture, UI/UX, or your favourite anime!
 
 ---
 

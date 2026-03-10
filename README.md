@@ -41,6 +41,6 @@ I specialize in building clean, responsive, and user-friendly web interfaces. I'
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Milanbhut&show_icons=true&theme=transparent&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Milan's GitHub stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milanbhut&theme=react-dark&hide_border=true&area=true" alt="Milan's GitHub Activity Graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milanbhut&theme=transparent&hide_border=true&title_color=fff&text_color=9f9f9f&icon_color=79ff97&bg_color=151515" alt="Milan's Streak" />
 </div>

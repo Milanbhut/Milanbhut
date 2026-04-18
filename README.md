@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="color: #79FF97; font-family: monospace;">> Hello, World! I am Milan Bhut_</h1>
-  <h3>Frontend Developer | Gadget Nerd & Born Engineer | Anime Weeb & Gamer 🎮</h3>
+  <h3>Frontend Developer | Gadget Nerd & Born Engineer | Anime Enjoyer & Gamer 🎮</h3>
 </div>
 
 <p align="center">
@@ -9,22 +9,22 @@
 
 ---
 
-### 🚀 The 3-Year Level Up (Current Stats)
-I treat my career like an RPG. Over the last few years, I've leveled up from just building UI to engineering full solutions. Here is what I've maxed out:
+### 🚀 The Years Of Levelling Up (Current Stats)
+I treat my career like an RPG. Over the past few years, I've levelled up from just building UI to engineering full solutions. Here is what I've maxed out:
 
 * 🧠 **Logic Building:** Sharpening my problem-solving muscles and algorithms daily with LeetCode. 
-* 🤖 **AI Prompt Expert:** Mastered the art of AI collaboration. I write the prompts that write the code, optimize the architecture, and squash the bugs.
+* 🤖 **AI Prompt Expert:** Mastered the art of AI collaboration. I write the prompts that write the code, optimise the architecture, and squash the bugs.
 * 📅 **Project Management:** End-to-end timeline tracking. I don't just build features; I manage scopes and deliver projects on schedule.
-* 🗣️ **Tech Educator & Time Manager:** Hyper-organized and passionate about spreading the hype around upcoming web technologies (especially within the React.js and Next.js ecosystems).
+* 🗣️ **Tech Educator & Time Manager:** Hyper-organised and passionate about spreading the hype around upcoming web technologies (especially within the React.js and Next.js ecosystems).
 
 ---
 
 ### 🕹️ Press Start (What I'm Doing Now)
 I believe the web should be interactive and fun. 
 
-* **Current Side Quest:** Developing a playable puzzle games like **Jigsaw Puzzle** & Other built entirely from scratch using HTML, CSS, and Vanilla JavaScript. 
+* **Current Side Quest:** Developing a playable Web-Based games entirely from scratch using HTML5, CSS, WebGL and Vanilla JavaScript.
 * **Main Quest:** Crafting high-performance web apps as a Freelancer.
-* **Guild Chat:** Ask me about frontend architecture, UI/UX, or your favourite anime!
+* **Guild Chat:** Ask me about frontend architecture, UI/UX, or your favourite anime & Game!
 
 ---
 

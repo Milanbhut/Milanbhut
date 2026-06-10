@@ -11,7 +11,7 @@
 
 ### 🚀 The Years of Levelling Up (Current Stats)
 
-I treat my career like an RPG. Over the past few years, I've levelled up from just building UI to engineering full solutions. Here's what I've maxed out:
+I see my career like an RPG. Over the past few years, I've levelled up from just building UI to engineering full solutions. Here's what I've maxed out:
 
 | Skill | Level | Status |
 |-------|-------|--------|

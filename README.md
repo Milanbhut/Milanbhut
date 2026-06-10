@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  Welcome to my digital playground. I'm a born engineer from India who turns coffee into clean, scalable interfaces — and now, into autonomous AI agents. I don't just write code; I architect digital experiences and command the AI that helps build them.
+  Welcome to my digital playground. I'm a born engineer from India who turns coffee into clean, scalable interfaces and now, into autonomous AI agents. I don't just write code; I architect digital experiences and command the AI that helps build them.
 </p>
 
 ---

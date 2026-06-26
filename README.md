@@ -16,20 +16,20 @@ I see my career like an RPG. Over the past few years, I've levelled up from just
 | Skill | Level | Status |
 |-------|-------|--------|
 | 🧠 **Logic Building** | ████████░░ | Sharpening problem-solving muscles daily with LeetCode & DSA grinds |
-| 🤖 **AI Agent Engineering** | █████████░ | ⭐ *New Class Unlocked* — see below |
+| 🤖 **AI Agent Engineering** | █████████░ | ⭐ *New Class Unlocked* see below |
 | ✍️ **Prompt Engineering** | █████████░ | Crafting precision prompts that turn AI into a 10x teammate |
-| 📅 **Project Management** | ████████░░ | End-to-end timeline tracking — scoped, shipped, on schedule |
+| 📅 **Project Management** | ████████░░ | End-to-end timeline tracking. scoped, shipped, on schedule |
 | 🗣️ **Tech Educator** | ███████░░░ | Spreading the hype around React.js & Next.js ecosystems |
 
 ---
 
 ### 🤖 New Class Unlocked: AI Agent Architect
 
-The newest weapon in my arsenal — I build AI agents and engineer the prompts that make them deadly accurate:
+The newest weapon in my arsenal. I build AI agents and engineer the prompts that make them deadly accurate:
 
-* ⚙️ **Agent Building:** Designing autonomous & semi-autonomous AI agents that plan, reason, use tools, and execute multi-step workflows — from research assistants to code-review bots.
+* ⚙️ **Agent Building:** Designing autonomous & semi-autonomous AI agents that plan, reason, use tools, and execute multi-step workflows from research assistants to code-review bots.
 * 🎯 **Precision Prompting:** Engineering structured, context-rich prompts (role priming, few-shot examples, chain-of-thought, output schemas) that consistently squeeze top-notch output from any LLM.
-* 🔁 **Iterate & Optimise:** Testing, refining, and benchmarking prompts like code — because a great prompt is just a well-architected function written in English.
+* 🔁 **Iterate & Optimise:** Testing, refining, and benchmarking prompts like code, because a great prompt is just a well-architected function written in English.
 * 🧩 **AI-Augmented Workflow:** I write the prompts that write the code, optimise the architecture, and squash the bugs. Human creativity × AI speed = shipped products.
 
 <div align="center">
@@ -47,7 +47,7 @@ I believe the web should be interactive and fun.
 * 🎮 **Current Side Quest:** Building playable web-based games entirely from scratch using HTML5, CSS, WebGL and Vanilla JavaScript.
 * 💼 **Main Quest:** Crafting high-performance web apps as a Freelancer.
 * 🤖 **Bonus Quest:** Experimenting with AI agents that automate the boring parts of development.
-* 💬 **Guild Chat:** Ask me about frontend architecture, UI/UX, AI agents, prompt engineering — or your favourite anime & game!
+* 💬 **Guild Chat:** Ask me about frontend architecture, UI/UX, AI agents, prompt engineering or your favourite anime & game!
 
 ---
 

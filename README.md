@@ -1,6 +1,6 @@
 `SURAT, INDIA · AVAILABLE FOR FREELANCE`
 
-# I build interfaces — and the *agents* that build them.
+# I build interfaces - and the *agents* that build them.
 
 Frontend engineer who got tired of doing the same build twice, so I taught software to do it instead. Here's the machine-readable version:
 
@@ -30,7 +30,7 @@ status:  running
 Point it at a screenshot of an ad and it hands back production HTML. OCR runs offline on the CPU, fonts get matched and WOFF2-subsetted down to the glyphs actually used. No API keys, no hosted service, no monthly bill.
 
 **website-agent** · `python · claude code`<br>
-A subagent system that takes a topic and a domain and returns a finished, AdSense-ready WordPress blog — theme, articles, authors, schema, legal pages, the lot. One brief in, one site out.
+A subagent system that takes a topic and a domain and returns a finished, AdSense-ready WordPress blog - theme, articles, authors, schema, legal pages, the lot. One brief in, one site out.
 
 **1Agent1** · `skills · specs`<br>
 My own Claude Code skills, plus a behavioural spec that stops agents from over-engineering. Reusable build pipelines, not one-off prompts.

@@ -1,101 +1,67 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=79FF97&center=true&vCenter=true&width=600&lines=%3E+Hello%2C+World!+I+am+Milan+Bhut_;%3E+Frontend+Developer;%3E+AI+Agent+Architect;%3E+Anime+Enjoyer+%26+Gamer+%F0%9F%8E%AE" alt="Typing intro: Hello World, I am Milan Bhut" />
-  <h3>Frontend Developer | AI Agent Architect | Gadget Nerd & Born Engineer | Anime Enjoyer & Gamer 🎮</h3>
-</div>
+`SURAT, INDIA · AVAILABLE FOR FREELANCE`
 
-<p align="center">
-  Welcome to my digital playground. I'm a born engineer from India who turns coffee into clean, scalable interfaces and now, into autonomous AI agents. I don't just write code; I architect digital experiences and command the AI that helps build them.
-</p>
+# I build interfaces — and the *agents* that build them.
 
----
+Frontend engineer who got tired of doing the same build twice, so I taught software to do it instead. Here's the machine-readable version:
 
-### 🚀 The Years of Levelling Up (Current Stats)
+```yaml
+name:   Milan Bhut
+role:   Frontend Engineer · AI Agent Architect
+based:  Surat, India
 
-I see my career like an RPG. Over the past few years, I've levelled up from just building UI to engineering full solutions. Here's what I've maxed out:
+stack:
+  web:     [React 19, TypeScript, Tailwind 4, Vite]
+  server:  [Node, PHP, Python, MySQL]
+  agents:  [Claude Code, subagents, prompt engineering]
+  vision:  [OpenCV, ONNX, scikit-image]
 
-| Skill | Level | Status |
-|-------|-------|--------|
-| 🧠 **Logic Building** | ████████░░ | Sharpening problem-solving muscles daily with LeetCode & DSA grinds |
-| 🤖 **AI Agent Engineering** | █████████░ | ⭐ *New Class Unlocked* see below |
-| ✍️ **Prompt Engineering** | █████████░ | Crafting precision prompts that turn AI into a 10x teammate |
-| 📅 **Project Management** | ████████░░ | End-to-end timeline tracking. scoped, shipped, on schedule |
-| 🗣️ **Tech Educator** | ███████░░░ | Spreading the hype around React.js & Next.js ecosystems |
+capabilities:
+  - screenshot_to_html       # CV reads the ad, writes the markup
+  - topic_to_live_site       # one brief in, finished blog out
+  - competitor_to_replica    # PHP rebuild + custom admin
 
----
+shipped: 30+                 # sites, client and personal
+status:  running
+```
 
-### 🤖 New Class Unlocked: AI Agent Architect
+## What's behind those capabilities
 
-The newest weapon in my arsenal. I build AI agents and engineer the prompts that make them deadly accurate:
+**repo-ads-builder** · `python · opencv · onnx`<br>
+Point it at a screenshot of an ad and it hands back production HTML. OCR runs offline on the CPU, fonts get matched and WOFF2-subsetted down to the glyphs actually used. No API keys, no hosted service, no monthly bill.
 
-* ⚙️ **Agent Building:** Designing autonomous & semi-autonomous AI agents that plan, reason, use tools, and execute multi-step workflows from research assistants to code-review bots.
-* 🎯 **Precision Prompting:** Engineering structured, context-rich prompts (role priming, few-shot examples, chain-of-thought, output schemas) that consistently squeeze top-notch output from any LLM.
-* 🔁 **Iterate & Optimise:** Testing, refining, and benchmarking prompts like code, because a great prompt is just a well-architected function written in English.
-* 🧩 **AI-Augmented Workflow:** I write the prompts that write the code, optimise the architecture, and squash the bugs. Human creativity × AI speed = shipped products.
+**website-agent** · `python · claude code`<br>
+A subagent system that takes a topic and a domain and returns a finished, AdSense-ready WordPress blog — theme, articles, authors, schema, legal pages, the lot. One brief in, one site out.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AI%20Agents-Builder-79FF97?style=for-the-badge&logo=robotframework&logoColor=black" alt="AI Agents">
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-Expert-79FF97?style=for-the-badge&logo=openai&logoColor=black" alt="Prompt Engineering">
-  <img src="https://img.shields.io/badge/LLM%20Workflows-Optimised-79FF97?style=for-the-badge&logo=googlegemini&logoColor=black" alt="LLM Workflows">
-</div>
+**1Agent1** · `skills · specs`<br>
+My own Claude Code skills, plus a behavioural spec that stops agents from over-engineering. Reusable build pipelines, not one-off prompts.
 
----
+## Toolkit
 
-### 🕹️ Press Start (What I'm Doing Now)
+**Frontend**
 
-I believe the web should be interactive and fun.
+![React](https://img.shields.io/badge/React_19-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind](https://img.shields.io/badge/Tailwind_4-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
 
-* 🎮 **Current Side Quest:** Building playable web-based games entirely from scratch using HTML5, CSS, WebGL and Vanilla JavaScript.
-* 💼 **Main Quest:** Crafting high-performance web apps as a Freelancer.
-* 🤖 **Bonus Quest:** Experimenting with AI agents that automate the boring parts of development.
-* 💬 **Guild Chat:** Ask me about frontend architecture, UI/UX, AI agents, prompt engineering or your favourite anime & game!
+**Backend & data**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![WordPress](https://img.shields.io/badge/WordPress-0D1117?style=flat-square&logo=wordpress&logoColor=21759B)
 
-### 🛠️ The Arsenal
+**Agents & vision**
 
-**Frontend Weapons**
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
-</div>
-
-**Design & Backend Gear**
-<div align="center">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-</div>
+![Claude Code](https://img.shields.io/badge/Claude_Code-0D1117?style=flat-square&logo=anthropic&logoColor=D97757)
+![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Vitest](https://img.shields.io/badge/Vitest-0D1117?style=flat-square&logo=vitest&logoColor=6E9F18)
 
 ---
 
-### 📊 Player Activity
+[**milanbhut.in**](https://milanbhut.in) · [LinkedIn](https://linkedin.com/in/milanbhut) · [X](https://x.com/vasoliyamilan)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Milanbhut&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=79FF97&icon_color=79FF97" alt="Milan's GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milanbhut&theme=react&hide_border=true&background=0D1117&ring=79FF97&fire=79FF97&currStreakLabel=79FF97" alt="Milan's GitHub Streak" height="165">
-</div>
-
-<div align="center">
-  <a href="https://github.com/Milanbhut">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milanbhut&theme=react-dark&hide_border=true&area=true&color=79ff97&line=79ff97&point=ffffff" alt="Milan's GitHub Activity Graph" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <b>⚔️ Let's Connect & Team Up:</b><br><br>
-  <a href="mailto:milanbhut7199@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/milanbhut" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/vasoliyamilan" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <br><br>
-  <i>"It's not a bug, it's an undocumented side quest."</i> 🎮
-</div>
+*Ask me about agent architecture, frontend performance, or which Digimon has the best card art.*
